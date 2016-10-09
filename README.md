@@ -1,2 +1,2 @@
-# smarkandyangcommit.github.io
+# yangandsmarkcommit
 life project
